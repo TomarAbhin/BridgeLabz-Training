@@ -2,10 +2,10 @@ import java.util.*;
 public class PerimeterOfRectenglele {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        int l = s.nextInt(); // length of the rectangle
-        int b = s.nextInt(); // breadth of the rectangle
-        int p = 2 * (l + b); // Perimeter calculation
-        System.out.println("The perimeter is: " + p);
+        int length = s.nextInt(); // length of the rectangle
+        int base = s.nextInt(); // breadth of the rectangle
+        int perimeter = 2*(length+base); // Perimeter calculation
+        System.out.println("The perimeter is: " + perimeter);
     }
     
 }

@@ -5,10 +5,10 @@ public class AreaOfTriangleInCentimetersAndInches {
         double base = s.nextDouble(); // base in centimeters
         double height = s.nextDouble(); // height in centimeters
         // Calculate area in centimeters square
-        double areaincm = 0.5 * base * height;
+        double areaInCm = 0.5 * base * height;
         // Calculate area in inches square
-        double areaininches = areaincm / (2.54*2.54);
-        System.out.println("area of triangle in cm^2 is:"+ areaincm+" and in inches^2 is: "+ areaininches);
+        double areaInInches = areaInCm / (2.54*2.54);
+        System.out.println("area of triangle in cm^2 is:"+ areaInCm+" and in inches^2 is: "+ areaInInches);
     }
     
 }
