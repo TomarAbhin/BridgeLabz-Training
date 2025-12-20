@@ -1,5 +1,5 @@
 import java.util.*;
-public class fibbonaci {
+public class Fibbonaci {
         public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int n = s.nextInt(); // number till where the series will form
