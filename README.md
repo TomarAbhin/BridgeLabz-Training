@@ -1,5 +1,24 @@
 Week-1 : JAVA FUNDAMENTALS AND LEARNING GIT AND GITHUB
 
+
+**PROJECT STRUCTURE OVERVIEW**
+
+BridgeLabz-Training/
+|
++-- core-java-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- programming-elements/
+|   |   |
+|   |   +-- control-flow/
+|   |
+|   +-- leet-code-codebase/
+|   |
+|   +-- scenario-based/
+|
++-- README.md
+
 **Day-1 : 16-Dec-2025**
 * Created Github Account and Repositories.
 * Connecting Github with vs-code and git bash.
