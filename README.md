@@ -16,3 +16,9 @@ Week-1 : JAVA FUNDAMENTALS AND LEARNING GIT AND GITHUB
 * Worked with input/output using scanner.
 * Focused on improving logic building and clean coding.
 * Pushed some code in the programming elements folder inside gcr-codebase.
+* link of questions-https://github.com/TomarAbhin/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements
+
+**Day-4 : 19-Dec-2025**
+* Learned some more fundamentals of java like enum,static and non-static keywords.
+* solved questions of control flows.
+* link of questions-https://github.com/TomarAbhin/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flows
