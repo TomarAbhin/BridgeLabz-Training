@@ -108,4 +108,9 @@
 
 ---
 
+### 🗓️ **Day-2 : 30-Dec-2025**
+
+* 🧩 Learned about sortng techniques in java and practiced problems based on it.
+* 🔗 **Link of Sorting Alogorithm programs:**
+  [https://github.com/TomarAbhin/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-alogorithms](https://github.com/TomarAbhin/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-alogorithms)
 
