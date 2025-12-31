@@ -4,7 +4,7 @@ public class EmployeeWageCalculator {
         System.out.println("Welcome to Employee Wage Calculator");
         // UC 1:check whether employee is present or absent using Random
         Random r = new Random();
-        int isPresent = r.nextInt(2);   // 0 = Absent, 1 = Present
+        int isPresent = r.nextInt(2);  // 0 = Absent, 1 = Present
         if (isPresent == 1) {
             System.out.println("Employee is Present");
         } else {
