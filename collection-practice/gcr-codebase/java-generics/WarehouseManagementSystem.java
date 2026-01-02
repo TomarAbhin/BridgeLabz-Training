@@ -64,7 +64,7 @@ class Storage<T extends WarehouseItem> {
     }
 }
 
-public class WarehouseManagementSyste {
+public class WarehouseManagementSystem {
     public static void main(String[] args) {
         //create storage for different item types
         Storage<Electronics> electronicsStorage = new Storage<>();
