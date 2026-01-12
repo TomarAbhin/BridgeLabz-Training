@@ -184,4 +184,10 @@
 * 🔗 **Link for problems:**
   [https://github.com/TomarAbhin/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/exceptions](https://github.com/TomarAbhin/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/exceptions)
 
+---
+
+### 🗓️ **Day-7 : 9-Jan-2026**
+
+* 🧩 Revised the topics of the week.
+* 🧩 Learned more about exceptions and generic classes in java.
   
