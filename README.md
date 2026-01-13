@@ -190,4 +190,15 @@
 
 * 🧩 Revised the topics of the week.
 * 🧩 Learned more about exceptions and generic classes in java.
-  
+
+---
+
+## 🗓️ Week-4 :  JAVA COLLECTIONS ANS STREAMS
+
+### 🗓️ **Day-1 : 12-Jan-2026**
+
+* 🧩 Learned about regex and junit testing.
+* 🔗 **Link for regex problems:**
+  [https://github.com/TomarAbhin/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/regex](https://github.com/TomarAbhin/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/regex)
+* 🔗 **Link for junit problems:**
+  [https://github.com/TomarAbhin/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/junit-testing](https://github.com/TomarAbhin/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/junit-testing)
