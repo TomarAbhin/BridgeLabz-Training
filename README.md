@@ -193,7 +193,7 @@
 
 ---
 
-## 🗓️ Week-4 :  JAVA COLLECTIONS ANS STREAMS
+## 🗓️ Week-5 :  JAVA COLLECTIONS ANS STREAMS
 
 ### 🗓️ **Day-1 : 12-Jan-2026**
 
