@@ -202,3 +202,29 @@
   [https://github.com/TomarAbhin/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/regex](https://github.com/TomarAbhin/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/regex)
 * 🔗 **Link for junit problems:**
   [https://github.com/TomarAbhin/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/junit-testing](https://github.com/TomarAbhin/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/junit-testing)
+
+---
+
+### 🗓️ **Day-2 : 13-Jan-2026**
+
+* 🧩 Learned about Reflections.
+* 🧩 Solved Problems on reflections.
+* 🔗 **Link for problems:**
+
+---
+
+### 🗓️ **Day-3 : 14-Jan-2026**
+
+* 🧩 Learned about Annotations.
+* 🧩 Solved Problems on Annotations.
+* 🔗 **Link for problems:**
+
+---
+
+### 🗓️ **Day-4 : 15-Jan-2026**
+
+* 🧩 Revised Concepts of junit testing.
+* 🧩 Revised previous topics.
+
+
+  
