@@ -210,6 +210,7 @@
 * 🧩 Learned about Reflections.
 * 🧩 Solved Problems on reflections.
 * 🔗 **Link for problems:**
+  [https://github.com/TomarAbhin/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/reflections](https://github.com/TomarAbhin/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/reflections)
 
 ---
 
@@ -218,6 +219,7 @@
 * 🧩 Learned about Annotations.
 * 🧩 Solved Problems on Annotations.
 * 🔗 **Link for problems:**
+  [https://github.com/TomarAbhin/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/annotations](https://github.com/TomarAbhin/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/annotations)
 
 ---
 
