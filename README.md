@@ -186,7 +186,8 @@
 ## 🗓️ Week 5: Advanced Java Concepts
 
 ### 📅 Day 1: 12-Jan-2026
-- 🧩 Learned Regex and JUnit Testing  
+- 🧩 Learned Regex .
+- 🧩 Studies about JUnit Testing
 
 🔗 **Links:**  
 - [Regex](https://github.com/TomarAbhin/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/regex)  
