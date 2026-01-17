@@ -227,6 +227,16 @@
 
 * 🧩 Revised Concepts of junit testing.
 * 🧩 Revised previous topics.
+* 🧩 Solved Scenario-based problem.
+
+---
+
+### 🗓️ **Day-5 : 16-Jan-2026**
+
+
+* 🧩 Revised oops concepts in details.
+* 🧩 Tried to solve more complex problems based on oops concepts.
+* 🧩 Studied about Regex in detail.
 
 
   
