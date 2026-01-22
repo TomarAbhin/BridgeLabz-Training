@@ -197,7 +197,7 @@
 
 ---
 
-## 🗓️ Week 5: Advanced Java Concepts
+## 🗓️ Week 5: Java Collections (continue)
 
 ### 📅 Day 1: 12-Jan-2026
 - 🧩 Learned Regex  
