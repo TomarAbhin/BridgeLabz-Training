@@ -2,6 +2,19 @@
 
 ---
 
+## 🏗️ Repository Structure (High-Level)
+
+```text
+📦 BridgeLabz-Training
+ ┣ ┣ 📂 core-java-practice
+ ┃ ┣ 📂 programming-elements
+ ┃ ┣ 📂 control-flow
+ ┃ ┣ 📂 leet-code-codebase
+ ┃ ┣ 📂 OOP              
+ ┃ ┣ 📂 collections     
+ ┣ 📄 README.md
+
+
 ## 🗓️ Week 1: Java Fundamentals & Git/GitHub
 
 ### 📅 Day 1: 16-Dec-2025
@@ -186,8 +199,8 @@
 ## 🗓️ Week 5: Advanced Java Concepts
 
 ### 📅 Day 1: 12-Jan-2026
-- 🧩 Learned Regex .
-- 🧩 Studies about JUnit Testing
+- 🧩 Learned Regex  
+- 🧩 Studied JUnit Testing  
 
 🔗 **Links:**  
 - [Regex](https://github.com/TomarAbhin/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/regex)  
@@ -224,5 +237,24 @@
 - 🧩 Revised OOPS concepts in detail  
 - 🧩 Solved complex OOPS-based problems  
 - 🧩 Studied Regex in depth  
+
+---
+
+## 🗓️ Week 6: IO Programming
+
+### 📅 Day 1: 19-Jan-2026
+- 🧩 Understood CSV (Comma Separated Values) files  
+- 🧩 Learned how data is stored in rows and columns  
+- 🧩 Studied real-world usage of CSV for data exchange  
+
+---
+
+### 📅 Day 2: 20-Jan-2026
+- 🧩 Submitted CSV data handling problems  
+- ✅ Read CSV file using Java, processed student data, verified output  
+- 🧩 Continued work on Address Book scenario-based problem  
+
+🔗 **Link:**  
+[CSV Handling](https://github.com/TomarAbhin/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv-handling)
 
 ---
