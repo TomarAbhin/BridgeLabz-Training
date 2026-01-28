@@ -24,7 +24,8 @@ public class Main {
 			TimberTransport tt=(TimberTransport) gt;
 		 	System.out.println("\nTransporter id : " + tt.getTransportId());
 		    System.out.println("Date of transport : " + tt.getTransportDate());
-			System.out.println("Rating of the transport : " + tt.getTransportRating());			    System.out.println("Timber Length: " + tt.getTimberLength());
+			System.out.println("Rating of the transport : " + tt.getTransportRating());
+			System.out.println("Timber Length: " + tt.getTimberLength());
 		    System.out.println("Timber Radius : " + tt.getTimberRadius());
 		    System.out.println("Timber Type : " + tt.getTimberType());
 		    System.out.println("Timber price : " + tt.getTimberPrice());
