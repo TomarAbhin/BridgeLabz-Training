@@ -1,11 +1,11 @@
-//package java8-features-practice.gcr-codebase.functional-interfaces.smart-house;
+package smart_house;
 
 public class SmartHome {
     public static void main(String[] args) {
 
         SmartDevice light = new Light();
-        SmartDevice ac = new AC();
-        SmartDevice tv = new TV();
+        SmartDevice ac = new Ac();
+        SmartDevice tv = new Tv();
 
         light.turnOn();
         ac.turnOn();
@@ -16,4 +16,3 @@ public class SmartHome {
         tv.turnOff();
     }
 }
-

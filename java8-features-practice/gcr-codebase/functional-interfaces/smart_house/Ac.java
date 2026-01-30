@@ -1,4 +1,4 @@
-//package java8-features-practice.gcr-codebase.functional-interfaces.smart-house;
+package smart_house;
 
 public class Ac implements SmartDevice {
 

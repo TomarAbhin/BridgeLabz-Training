@@ -1,4 +1,4 @@
-// package java8-features-practice.gcr-codebase.functional-interfaces.smart-house;
+package smart_house;
 
 public class Light implements SmartDevice {
 
@@ -10,4 +10,3 @@ public class Light implements SmartDevice {
         System.out.println("Light is OFF");
     }
 }
-
