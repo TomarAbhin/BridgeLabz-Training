@@ -259,3 +259,66 @@
 [CSV Handling](https://github.com/TomarAbhin/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv-handling)
 
 ---
+
+## 🗓️ Day-3 : 21-Jan-2026  
+### 🧩 Topic: Learn JSON
+- 📘 Learned JSON syntax and key-value structure  
+- 📂 Understood JSON objects and arrays  
+- 💻 Practiced creating and reading JSON data in Java  
+- ✅ Improved data handling and parsing skills  
+
+---
+
+## 🗓️ Day-4 : 22-Jan-2026  
+- 🧩 Submitted JSON practice tasks and programs  
+- 🧩 Verified JSON read, write, merge, filtering, and validation programs  
+- 🧩 Learned Java 8 features  
+- 🧩 Practiced Lambda Expressions  
+- 🧩 Improved code readability and performance using modern Java features  
+
+---
+
+## 🗓️ Day-5 : 23-Jan-2026  
+- 🧩 Working on Address Book Problem  
+- 🧩 Revised previous topics  
+- 🧩 Worked on Lexical Twist problem  
+
+---
+
+# 🗓️ Week-7 : JAVA 8 AND ITS FEATURES
+
+---
+
+## 📅 Day-1 : 27-Jan-2026  
+- 🧩 Created and pushed a new Git branch: `java8-features-practice`  
+- 🧩 Submitted Lambda Expression practice problems  
+- 🧩 Practiced sorting using Lambda and Comparator  
+- 🧩 Implemented Predicate-based filtering examples  
+- 🧩 Improved understanding of functional programming in Java 8  
+
+---
+
+## 📅 Day-2 : 28-Jan-2026  
+- 🧩 Practiced Lambda Expression problems in Java 8  
+- 🧩 Learned and implemented Functional Interfaces  
+- 🧩 Used Predicate, Function, Consumer with examples  
+- 🧩 Improved understanding of functional programming concepts  
+
+---
+
+## 📅 Day-3 : 29-Jan-2026  
+- 🧩 Solved scenario-based problems: **FutureLogistics** & **AeroVigil**  
+- 🧩 Applied Java concepts to real-world problem statements  
+- 🧩 Focused on logic building and edge-case handling  
+- 🧩 Pushed solutions to GitHub repository  
+
+---
+
+## 📅 Day-4 : 30-Jan-2026  
+- 🧩 Learned Java Stream API and Collectors in detail  
+- 🧩 Practiced `map()`, `filter()`, `forEach()`, `groupingBy()`, and summarizing collectors  
+- 🧩 Solved scenario-based problems using JUnit test cases  
+- 🧩 Worked on exception handling with custom and built-in exceptions  
+
+---
+
