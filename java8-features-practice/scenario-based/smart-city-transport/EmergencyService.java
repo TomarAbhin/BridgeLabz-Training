@@ -1,0 +1,5 @@
+package SmartCityTransport;
+
+interface EmergencyService {
+	
+}
