@@ -321,4 +321,60 @@
 - 🧩 Worked on exception handling with custom and built-in exceptions  
 
 ---
+# 🗓️ Week-7 : Solution Designing
+
+---
+
+## 📅 Day-1 : 31-Jan-2026
+
+- 🔹 Explored **Introduction to GoF Design Patterns** and their importance  
+- 🧩 Studied **GoF Categories – Creational & Behavioral**  
+- ⚙️ Implemented:
+  - Singleton  
+  - Factory  
+  - Observer  
+  - Builder Patterns  
+- 📐 Designed **UML diagrams** for GoF patterns  
+- 🤖 Solved scenario-based problem: **Factory Pattern – Robot Hazard Analyzer**  
+- 📌 Pushed practice code to **dsa-practice** branch on GitHub  
+
+---
+
+## 📅 Day-2 : 02-Feb-2026
+
+- 🧪 Solved **JUnit scenario-based problems** and pushed test cases to **io-practice**  
+- 🌊 Practiced **StreamBuzz** and pushed solution to collection-based scenario problems  
+- ⚙️ Attended **Workshop on Java 8 Features**  
+- 🏙️ Worked on **Smart City Transport & Service Management System**  
+- 💡 Applied:
+  - Streams  
+  - Lambda Expressions  
+  - Functional Interfaces  
+- 📌 Pushed complete workshop project to **java8-features-practice** branch  
+
+---
+
+## 📅 Day-3 : 03-Feb-2026
+
+- 🔹 Learned **Multi-Threading concepts in Java**  
+- ⚙️ Practiced threads using:
+  - `Thread` class  
+  - `Runnable` interface  
+- 🔄 Studied **Thread Life Cycle & States in Java**  
+- 🌊 Solved **OceanFleet scenario-based problem** using collections  
+- 📌 Pushed solution to **collection-practice** branch on GitHub  
+
+---
+
+## 📅 Day-4 : 04-Feb-2026  
+### 🗓️ Collection-Based Scenario Problems 📚
+
+- 🍔 Implemented **Food Delivery Order Routing System** using `Queue` & `List`  
+- 🔁 Assigned orders **FIFO** to nearest available agent using OOP principles  
+- ⚠️ Handled unavailability with **NoAgentAvailableException**  
+
+- 🎓 Built **Online Classroom Attendance Tracker** using `Set` & `Map` for session-wise tracking  
+- 🚫 Prevented duplicates with **DuplicateAttendanceException**  
+
+
 
