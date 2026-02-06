@@ -321,7 +321,7 @@
 - 🧩 Worked on exception handling with custom and built-in exceptions  
 
 ---
-# 🗓️ Week-7 : Solution Designing
+# 🗓️ Week-8 : Solution Designing
 
 ---
 
