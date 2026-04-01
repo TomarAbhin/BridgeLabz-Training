@@ -1,0 +1,6 @@
+projectKey=HealthClinicTest
+serverUrl=http://localhost:9000
+serverVersion=26.2.0.119303
+dashboardUrl=http://localhost:9000/dashboard?id=HealthClinicTest
+ceTaskId=ab9cf56b-e189-4b64-bed7-199530d92a28
+ceTaskUrl=http://localhost:9000/api/ce/task?id=ab9cf56b-e189-4b64-bed7-199530d92a28
